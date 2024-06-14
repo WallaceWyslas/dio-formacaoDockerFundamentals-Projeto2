@@ -1,5 +1,5 @@
 # 1️⃣ Docker Compose
-Executando uma aplicação HTML em um container apache
+Criação de um cluster com 4 VMs
 
 
 ## Definições
